@@ -1,6 +1,6 @@
 ﻿using System.IO.Enumeration;
 
-namespace Lab0Zande
+namespace Lab0Zander
 {
     internal class Program
     {
