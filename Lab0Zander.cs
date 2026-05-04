@@ -6,8 +6,7 @@ namespace Lab0Zander
     {
         static void Main(string[] args)
         {
-            // Task 1
-
+            // Task 
             Console.WriteLine("Enter A Low Number");
             int LowNum = int.Parse(Console.ReadLine());
             Console.WriteLine("Enter A High Number");
