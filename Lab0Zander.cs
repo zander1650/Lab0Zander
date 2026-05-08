@@ -2,7 +2,7 @@
 
 namespace Lab0Zander
 {
-    internal class Program
+    internal class Progra
     {
         static void Main(string[] args)
         {
