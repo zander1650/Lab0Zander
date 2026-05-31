@@ -1,7 +1,7 @@
 
         {
             // Task 
-            Console.WriteLine("Enter A Low Number");
+            Console.WriteLine("Enter A Low Number");.
             int LowNum = int.Parse(Console.ReadLine());
             Console.WriteLine("Enter A High Number");
             int HighNum = int.Parse(Console.ReadLine());
