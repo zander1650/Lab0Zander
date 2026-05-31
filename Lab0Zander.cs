@@ -1,10 +1,4 @@
-﻿using System.IO.Enumeration;
 
-namespace Lab0Zander
-{
-    internal class Program
-    {
-        static void Main(string[] args)
         {
             // Task 
             Console.WriteLine("Enter A Low Number");
