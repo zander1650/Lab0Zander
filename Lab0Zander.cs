@@ -11,7 +11,7 @@
             // Task 2
 
             Console.WriteLine($"Enter a  positive low number (Lower than {LowNum})");
-            int guess = int.Parse(Console.ReadLine());
+            int guess = int.Parse(Console.ReadLine());d
             while (guess > LowNum || guess < 0)
             {
                 Console.WriteLine("Number Is too high (Or is negitive) , please enter again");
